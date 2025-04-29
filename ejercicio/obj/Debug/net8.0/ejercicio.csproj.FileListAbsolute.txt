@@ -1,0 +1,14 @@
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfoInputs.cache
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfo.cs
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.csproj.CoreCompileInputs.cache
+/home/camper/Escritorio/C#/29Abr/ejercicio/bin/Debug/net8.0/ejercicio
+/home/camper/Escritorio/C#/29Abr/ejercicio/bin/Debug/net8.0/ejercicio.deps.json
+/home/camper/Escritorio/C#/29Abr/ejercicio/bin/Debug/net8.0/ejercicio.runtimeconfig.json
+/home/camper/Escritorio/C#/29Abr/ejercicio/bin/Debug/net8.0/ejercicio.dll
+/home/camper/Escritorio/C#/29Abr/ejercicio/bin/Debug/net8.0/ejercicio.pdb
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.dll
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/refint/ejercicio.dll
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.pdb
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.genruntimeconfig.cache
+/home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ref/ejercicio.dll
