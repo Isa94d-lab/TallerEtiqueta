@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/camper/.nuget/packages/": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camper/Escritorio/C#/29Abr/ejercicio/ejercicio.csproj",
+      "projectUniqueName": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj",
       "projectName": "ejercicio",
-      "projectPath": "/home/camper/Escritorio/C#/29Abr/ejercicio/ejercicio.csproj",
-      "packagesPath": "/home/camper/.nuget/packages/",
-      "outputPath": "/home/camper/Escritorio/C#/29Abr/ejercicio/obj/",
+      "projectPath": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/camper/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
