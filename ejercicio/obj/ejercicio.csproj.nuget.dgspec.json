@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj": {}
+    "/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/ejercicio.csproj": {}
   },
   "projects": {
-    "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj": {
+    "/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/ejercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj",
+        "projectUniqueName": "/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/ejercicio.csproj",
         "projectName": "ejercicio",
-        "projectPath": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\ejercicio.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\1 Usuario\\Desktop\\EJERCICIOS PROGRAMACION\\TallerEtiqueta\\ejercicio\\obj\\",
+        "projectPath": "/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/ejercicio.csproj",
+        "packagesPath": "/home/camper/.nuget/packages/",
+        "outputPath": "/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/camper/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

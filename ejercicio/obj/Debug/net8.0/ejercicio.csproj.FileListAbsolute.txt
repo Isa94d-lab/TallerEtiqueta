@@ -12,18 +12,33 @@
 /home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.pdb
 /home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ejercicio.genruntimeconfig.cache
 /home/camper/Escritorio/C#/29Abr/ejercicio/obj/Debug/net8.0/ref/ejercicio.dll
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.GeneratedMSBuildEditorConfig.editorconfig
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.AssemblyInfoInputs.cache
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.AssemblyInfo.cs
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.csproj.CoreCompileInputs.cache
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.sourcelink.json
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.dll
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\refint\ejercicio.dll
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.pdb
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\bin\Debug\net8.0\ejercicio.exe
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\bin\Debug\net8.0\ejercicio.deps.json
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\bin\Debug\net8.0\ejercicio.runtimeconfig.json
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\bin\Debug\net8.0\ejercicio.dll
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\bin\Debug\net8.0\ejercicio.pdb
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ejercicio.genruntimeconfig.cache
-D:\1 Usuario\Desktop\EJERCICIOS PROGRAMACION\TallerEtiqueta\ejercicio\obj\Debug\net8.0\ref\ejercicio.dll
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfoInputs.cache
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfo.cs
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.csproj.CoreCompileInputs.cache
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.sourcelink.json
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.dll
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/refint/ejercicio.dll
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.pdb
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.exe
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.deps.json
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.runtimeconfig.json
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.dll
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.pdb
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.genruntimeconfig.cache
+D:/1 Usuario/Desktop/EJERCICIOS PROGRAMACION/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ref/ejercicio.dll
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.deps.json
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.runtimeconfig.json
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.dll
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/bin/Debug/net8.0/ejercicio.pdb
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfoInputs.cache
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.AssemblyInfo.cs
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.csproj.CoreCompileInputs.cache
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.sourcelink.json
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.dll
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/refint/ejercicio.dll
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.pdb
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ejercicio.genruntimeconfig.cache
+/home/camper/Escritorio/C#/TallerEtiqueta/ejercicio/obj/Debug/net8.0/ref/ejercicio.dll
